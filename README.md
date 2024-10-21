@@ -62,7 +62,8 @@ I’m always eager to meet fellow developers and security enthusiasts. Feel free
 
 - **Email**: z@azulasecurity.lol
 - **GitHub**: [github.com/znlv](https://github.com/znlv)
-- **LinkedIn**: [linkedin.com/in/znlv](https://linkedin.com/in/znlv)
+
+---
 
 
 
