@@ -49,7 +49,17 @@ I love working with a variety of programming languages and technologies, especia
 - **Role**: Head Developer
 - **Description**: Azula Client is a tool designed to gather publicly available information associated with a legal name while ensuring compliance with privacy regulations by censoring sensitive results.
 - **Technologies**: SQL, PHP, HTML, JS.
+  
+### 🔨 PxD Security (Discord Bot)
+- **Role**: Contributer
+- **Description**: It was a Discord fork of VirusTotal that allowed users to scan files they sent to it.
+- **Technologies**: Python.
 
+### 🔨 OziProt (Protocol)
+- **Role**: Leading Developer
+- **Description**: It was a protocol to make SFTP more secure.
+- **Technologies**: C.
+  
 ---
 
 # 📈 GitHub Stats
