@@ -44,6 +44,11 @@ I love working with a variety of programming languages and technologies, especia
 - **Other Contributions**: 
     - Writing documentation and tutorials for new users.
     - Implementing multi-threading and performance improvements for large-scale network scans.
+ 
+### 🔨 Azula Client (OSINT Tool)
+- **Role**: Head Developer
+- **Description**: Azula Client is a tool designed to gather publicly available information associated with a legal name while ensuring compliance with privacy regulations by censoring sensitive results.
+- **Technologies**: SQL, PHP, HTML, JS.
 
 ---
 
