@@ -3,7 +3,7 @@
 ---
 
 ## Hi there 👋
-I'm **Ozi**, a freelancing developer with a passion for **ethical hacking** and cybersecurity. I’m currently expanding my expertise in penetration testing and exploit development while sharpening my programming skills across a variety of technologies.
+I'm **znlv**, a freelancing developer with a passion for **ethical hacking** and cybersecurity. I’m currently expanding my expertise in penetration testing and exploit development while sharpening my programming skills across a variety of technologies.
 
 ---
 
