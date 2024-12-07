@@ -55,7 +55,7 @@ I love working with a variety of programming languages and technologies, especia
 - **Description**: It was a Discord fork of VirusTotal that allowed users to scan files they sent to it.
 - **Technologies**: Python.
 
-### 🔨 OziProt (Protocol)
+### 🔨 valqProt (Protocol)
 - **Role**: Leading Developer
 - **Description**: It was a protocol to make SFTP more secure.
 - **Technologies**: C.
