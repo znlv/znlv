@@ -20,7 +20,7 @@ I'm **znlv**, a freelancing developer with a passion for **ethical hacking** and
 
 I love working with a variety of programming languages and technologies, especially those that help me create efficient, high-performance tools for security and development. Here's a snapshot of the languages and platforms I use regularly:
 
-[![My Skills](https://skillicons.dev/icons?i=arch,linux,c,cs,cpp,py,php,js,html,mysql,css,rust,go,Arduino&perline=50)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arch,linux,c,cs,cpp,py,php,js,html,mysql,css,rust,go,arduino&perline=50)](https://skillicons.dev)
 
 ### Platforms & Tools:
 
