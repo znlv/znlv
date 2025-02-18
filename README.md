@@ -1,4 +1,4 @@
-### Hi Little Cats 👋
+### Hi  👋
 <p align="center">
     <b>Welcome to my page!</b><br><br>
     <i>
@@ -6,7 +6,7 @@
         Open to collaborating on interesting and innovative projects.<br>
         anyways I only release code that 100% works.<br>
         </i><br>
-        <a href="https://t.me/brickedcat">
+        <a href="https://t.me/wifiexploiter">
         <img src="https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=Telegram" alt="Telegram">
     </a>
     </i><br>
