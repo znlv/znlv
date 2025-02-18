@@ -2,7 +2,7 @@
 <p align="center">
     <b>Welcome to my page!</b><br><br>
     <i>
-        I'm valq a computer science student and a networking enthusiast!<br>
+        I'm sleepy a computer science student and a networking enthusiast!<br>
         Open to collaborating on interesting and innovative projects.<br>
         anyways I only release code that 100% works.<br>
         </i><br>
